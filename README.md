@@ -9,7 +9,7 @@ Post graduation, I hope to develop a career in building elegant solutions for us
 You can also view a portfolio of my work here! http://www.jeromelek.com
 
 ## What I hope to learn
-Through this course, I would hopefully be able to hone my skills in making better illustrations and visualizations that are attractive, yet easily understandable. Often in the world, we see many cases of poorly designed graphics that is more confusing than informative. 
+Through this course, I would hopefully be able to hone my skills in making better illustrations and visualizations that are attractive, yet easily understandable. Often in the world, we see many cases of poorly designed graphics that is more confusing than informative. Hopefully, through this course I would be able to learn the pitfalls and avoid such issues when it comes to my implementation!
 
 ## Portfolio Location
 Published site: https://jeromelek.github.io/tellingstorieswithdataportfolio/
