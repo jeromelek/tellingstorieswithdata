@@ -9,4 +9,4 @@ Post graduation, I hope to develop a career in building elegant solutions for us
 Through this course, I would hopefully be able to hone my skills in making better illustrations and visualizations that are attractive, yet easily understandable.
 
 ## Portfolio Location
-Published site: https://jeromelek.github.io/tellingstorieswithdata/
+Published site: https://jeromelek.github.io/tellingstorieswithdataportfolio/
