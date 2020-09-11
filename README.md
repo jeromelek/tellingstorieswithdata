@@ -15,7 +15,7 @@ Through this course, I would hopefully be able to hone my skills in making bette
 Published site: [Github Page](https://jeromelek.github.io/tellingstorieswithdataportfolio/)
 
 
-###Data Viz of King County
+### Data Viz of King County
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707709" data-url="https://flo.uri.sh/visualisation/3707709/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Future Assignments will also be posted here.
