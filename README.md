@@ -18,4 +18,7 @@ Published site: [Github Page](https://jeromelek.github.io/tellingstorieswithdata
 ### Data Viz of King County
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707709" data-url="https://flo.uri.sh/visualisation/3707709/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Assignment: Visualizing Governmennt Debt
+https://jeromelek.github.io/tellingstorieswithdataportfolio/governmentdebt
+
 Future Assignments will also be posted here.
