@@ -19,7 +19,7 @@ The grid of line charts showed us how individual countries have performed over t
 The line chart shows us how countries compare to each other over the years.
 
 ## Part 3: Tableau
-<iframe src="https://public.tableau.com/views/GovernmentDebtHighlightTable/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
+<iframe src="https://public.tableau.com/views/GovernmentDebtHighlightTable/Sheet1?:language=en&:display_count=y&:origin=viz_share_link"></iframe>
 
 
 ### Back to [Homepage](https://jeromelek.github.io/tellingstorieswithdataportfolio/)
