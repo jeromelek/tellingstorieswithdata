@@ -10,6 +10,8 @@ The following grid of line charts show the GDP debt ratio in various countries o
 ## Part 2b: Other Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/3757211" data-url="https://flo.uri.sh/visualisation/3757211/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+In my third data visualization, I decided to go with a line chart with filters to allow a user to compare the data across countries that have been selected. 
+
 ## Part 3: Tableau
 <iframe src="https://public.tableau.com/views/GovernmentDebtHighlightTable/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
