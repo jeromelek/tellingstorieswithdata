@@ -8,7 +8,7 @@ The following grid of line charts show the GDP debt ratio in various countries o
 <div class="flourish-embed flourish-chart" data-src="visualisation/3757085" data-url="https://flo.uri.sh/visualisation/3757085/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 2b: Other Visualization
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/3757211" data-url="https://flo.uri.sh/visualisation/3757211/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Tableau
 <iframe src="https://public.tableau.com/views/GovernmentDebtHighlightTable/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
