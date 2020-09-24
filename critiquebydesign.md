@@ -55,7 +55,9 @@ After explaining the visualization, to the readers, they said,
 With the feedback, I decided to focus on redesigning the goal attempts to see what other ways I could try to represent the data.
 
 ## Final Data Visualization
+![Arsenal vs Liverpool](https://i.imgur.com/dv9dW1w.png)
 <div class="flourish-embed flourish-chart" data-src="visualisation/3823452" data-url="https://flo.uri.sh/visualisation/3823452/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3823796" data-url="https://flo.uri.sh/visualisation/3823796/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/3823565" data-url="https://flo.uri.sh/visualisation/3823565/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Final Thoughts
