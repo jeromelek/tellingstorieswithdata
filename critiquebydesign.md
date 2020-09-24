@@ -56,6 +56,10 @@ With the feedback, I decided to focus on redesigning the goal attempts to see wh
 
 ## Final Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/3823452" data-url="https://flo.uri.sh/visualisation/3823452/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3823565" data-url="https://flo.uri.sh/visualisation/3823565/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Final Thoughts
+So, I wanted to recreate the mirrored bar chart as shown in the paper prototype earlier, but I realised that couldn't be done in Flourish, and it was not as ideal as I would have liked using Tableau. Instead, I resorted to combining a couple of Flourish charts to achieve a similar result as to what I would have preferred to do. 
 
 
 ### Back to [Homepage](https://jeromelek.github.io/tellingstorieswithdataportfolio/)
