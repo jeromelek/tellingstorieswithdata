@@ -19,6 +19,11 @@ The next issue I thought about was the corners and fouls bars looking like they 
 So with these 3 issues that I felt needed changing the most, I began research on what existing designs are out there in various sports, how the data is represented differently for football, soccer, basketball and how other graphics look like to gain inspiration on what to do / not to do. Next, I started sketching out a low fidelity wireframe solution on paper.
 ![Paper Wireframe](https://imgur.com/P5Wt3fc.jpg)
 
+In the above process, I decided to break down the entire series of charts and think of them one by one.
+Firstly, the possession chart. I think the donut works, similar to a pie chart since it adds up to 100%. It is a clean way of representing the composition of the match.
+Secondly, Goal Attempts, the original chart does not work for me, given the lack of proportion between the two values as well. I tried working with a stacked bar chart to see a clearer comparison of the data.
+Thirdly, the corners and fouls charts seem to show a summation of 100%, which I think is an inaccurate way of representing the attempts, since it shouldn't be adding up. Furthermore, even when the number of corners and number of fouls are different, the bar is of the same length. It represents a proportion that adds up to 100%, when it should simply show a difference in scale.
+
 ### User Test
 With the paper prototypes, I began the test for feedback from readers. I gathered feedback from two readers, one who doesn't watch soccer, and one who does.
 
@@ -44,7 +49,7 @@ Is there anything you would change or do differently?
 
 After explaining the visualization, to the readers, they said,
 
-1. Oh, after a while, it becomes understandable only with explanation. I do not really know what on target and off target means so it does not really make sense to me.
+1. Oh, after a while, it becomes understandable only with explanation. I do not really know what on target and off target means so it does not really make sense to me. Wow, the original chart can't even be seen properly if you're colourblind.
 2. I get what you're trying to do, but goals is typically not categorised together with the goal attempts. Hence I think that part is confusing.
 
 With the feedback, I decided to focus on redesigning the goal attempts to see what other ways I could try to represent the data.
