@@ -12,8 +12,13 @@ What I would like to show the audience is that as a reader, you can strike a bal
 Eventually, my call to action would be for people to monitor their use of social media through tools as well as limit their time spent. 
 
 
-## Initial Sketches
+## User Story Arc Sketch
+I debated between using the "dark" approach of "scaring" the user right from the start, akin to what was done in The Social Dilemma. However, I thought it would be more helpful to set a contextual stage first by talking about general ideas before deep diving into the topic.
 
+
+
+## High Fidelity Mockup
+Instead of sketching a paper prototype, I proceeded to design my mockup in high-fidelity using a prototyping tool known as Figma. Following this prototype, I intend to gather some feedback from viewers before proceeding to build the final version on shorthand.
 
 ## Data
 
