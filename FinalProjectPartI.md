@@ -14,7 +14,7 @@ Eventually, my call to action would be for people to monitor their use of social
 
 ## User Story Arc Sketch
 I debated between using the "dark" approach of "scaring" the user right from the start, akin to what was done in The Social Dilemma. However, I thought it would be more helpful to set a contextual stage first by talking about general ideas before deep diving into the topic.
-
+![User Story Arc](https://imgur.com/56F42X0)
 
 
 ## High Fidelity Mockup
