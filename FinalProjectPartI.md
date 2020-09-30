@@ -15,9 +15,9 @@ Eventually, my call to action would be for people to monitor their use of social
 ## Initial Sketches
 
 
-##Data
+## Data
 
-###Social Media Use
+### Social Media Use
 https://www.pewresearch.org/internet/fact-sheet/social-media/
 
 ## Method and Medium
