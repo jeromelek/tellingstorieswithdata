@@ -23,11 +23,11 @@ Instead of sketching a paper prototype, I proceeded to design my mockup in high-
 ## Data
 
 ### 1 Minute on the Internet
-2016 - https://www.visualcapitalist.com/what-happens-internet-minute-2016/
-2017 - https://www.visualcapitalist.com/happens-internet-minute-2017/
-2018 - https://www.visualcapitalist.com/internet-minute-2018/
-2019 - https://www.visualcapitalist.com/what-happens-in-an-internet-minute-in-2019/
-2020 - https://www.visualcapitalist.com/every-minute-internet-2020/
+2016 - https://www.visualcapitalist.com/what-happens-internet-minute-2016/  
+2017 - https://www.visualcapitalist.com/happens-internet-minute-2017/  
+2018 - https://www.visualcapitalist.com/internet-minute-2018/  
+2019 - https://www.visualcapitalist.com/what-happens-in-an-internet-minute-in-2019/  
+2020 - https://www.visualcapitalist.com/every-minute-internet-2020/  
 
 ### Social Media Use
 https://www.pewresearch.org/internet/fact-sheet/social-media/
