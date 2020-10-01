@@ -39,6 +39,9 @@ https://blog.hootsuite.com/social-media-statistics-for-social-media-managers/
 ### Digital 2020
 https://hootsuite.com/pages/digital-2020
 
+### Articles on Impact of Social Media
+https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
+
 ## Method and Medium
 I plan to deliver the final project on Shorthand. From the demos provided, I think the platform is sufficient in allowing me to complete my illustrations from the initial sketches that I had.
 I will use Flourish and Tableau to create the data visualizations. To supplement the visuals, I have also sourced my images from Unsplash.com for royalty free images, and will create additional graphics using Figma.
