@@ -18,7 +18,8 @@ I debated between using the "dark" approach of "scaring" the user right from the
 
 
 ## High Fidelity Mockup
-Instead of sketching a paper prototype, I proceeded to design my mockup in high-fidelity using a prototyping tool known as Figma. Following this prototype, I intend to gather some feedback from viewers before proceeding to build the final version on shorthand.
+Instead of sketching a paper prototype, I proceeded to design my mockup in high-fidelity using a prototyping tool known as Figma. Following this prototype, I intend to gather some feedback from viewers before proceeding to build the final version on shorthand.  
+*Visualizations are for illustration purposes and are not representative of the actual data.
 
 ## Data
 
