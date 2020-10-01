@@ -35,6 +35,9 @@ https://www.pewresearch.org/internet/fact-sheet/social-media/
 ### Individual Platform Statistics
 https://blog.hootsuite.com/social-media-statistics-for-social-media-managers/
 
+### Digital 2020
+https://hootsuite.com/pages/digital-2020
+
 ## Method and Medium
 I plan to deliver the final project on Shorthand. From the demos provided, I think the platform is sufficient in allowing me to complete my illustrations from the initial sketches that I had.
 I will use Flourish and Tableau to create the data visualizations. To supplement the visuals, I have also sourced my images from Unsplash.com for royalty free images, and will create additional graphics using Figma.
