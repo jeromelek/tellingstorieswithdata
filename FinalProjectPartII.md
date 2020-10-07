@@ -67,14 +67,21 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 7. Any other feedback
   I think the brain teasers are good, but they should stand out more.
   
-#### Interview #4 - Mid 20s Graduate Student who has only heard of the show. His Social Media usage is between 1-2 hours daily, with usage on Instagram and Reddit.
+#### Interview #4 - Mid 20s Graduate Student who has only heard of the show. His Social Media usage is between 2-3 hours daily, with usage on Instagram and Reddit.
 1. What do you think is the story being told?
+  There are downsides to excessive social media usage.
 2. Is there anything unclear and confusing?
+  Not sure what some of the stock images are supposed to do
 3. Is there anything that stood out for you?
+  How to control social media usage, interesting information tidbits presented in the charts
 4. Is there anything that you would have liked to learn about from the story?
+  Not really
 5. Is there anything you would change or do differently about the overall story?
+  Maybe tell me about the impact of social media at the individual level earlier, since at the start it's mostly generalized information
 6. Does the story compel you to make any changes to your social media usage patterns?
+  I will explore phone app limits functions in my personal device
 7. Any Other Feedback
+  Inspiring tagline at the end, charts were easy to read and understand the information it is presenting
 
 
 
