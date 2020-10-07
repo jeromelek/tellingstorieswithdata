@@ -52,35 +52,35 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 
 ### Interview Findings
 #### Interview #3 - Early 20s Graduate Student who has not watched The Social Dilemma. Her Social Media usage is approximately 2 hours daily, with high usage of Instagram and TikTok.
-1. What do you think is the story being told?
+1. What do you think is the story being told?  
   The story is about how social media impacts our lives, the pros and cons to it, and how it has helped us through coronavirus. It is about what social media can bring you and how you can protect yourself from it.
-2. Is there anything unclear and confusing?
+2. Is there anything unclear and confusing?  
   The chart on how Americans feel about social media during the pandemic - there was no legend, it took me much longer to understand what the chart was trying to say. Also, the first chart on youtube started in in 2018, I wasn't sure how come youtube started in 2018.
-3. Is there anything that stood out for you?
+3. Is there anything that stood out for you?  
   That i'm wasting my life spending 3 hours a day on social media. It's also interesting to see how mental health is affected by social media.
-4. Is there anything that you would have liked to learn about from the story?
+4. Is there anything that you would have liked to learn about from the story?  
   Nothing at the moment
-5. Is there anything you would change or do differently about the overall story?
+5. Is there anything you would change or do differently about the overall story?  
   Changes: Facebook and Instagram company colours can't really be seen on the charts (They do not stand out). The legends are abit small and hard to read, especially in grey. The font sizes need some working with because there aren't any parts ot the text that really stand out (They all look the same size)
-6. Does the story compel you to make any changes to your social media usage patterns?
+6. Does the story compel you to make any changes to your social media usage patterns?  
   I guess the part on controlling your screen time would get me to check out the features that I have in my phone and monitor myself, but otherwise I think I don't use that much of social media.
-7. Any other feedback
+7. Any other feedback. 
   I think the brain teasers are good, but they should stand out more.
   
 #### Interview #4 - Mid 20s Graduate Student who has only heard of the show. His Social Media usage is between 2-3 hours daily, with usage on Instagram and Reddit.
-1. What do you think is the story being told?
+1. What do you think is the story being told?  
   There are downsides to excessive social media usage.
-2. Is there anything unclear and confusing?
+2. Is there anything unclear and confusing?  
   Not sure what some of the stock images are supposed to do
-3. Is there anything that stood out for you?
+3. Is there anything that stood out for you?  
   How to control social media usage, interesting information tidbits presented in the charts
-4. Is there anything that you would have liked to learn about from the story?
+4. Is there anything that you would have liked to learn about from the story?  
   Not really
-5. Is there anything you would change or do differently about the overall story?
+5. Is there anything you would change or do differently about the overall story?  
   Maybe tell me about the impact of social media at the individual level earlier, since at the start it's mostly generalized information
-6. Does the story compel you to make any changes to your social media usage patterns?
+6. Does the story compel you to make any changes to your social media usage patterns?  
   I will explore phone app limits functions in my personal device
-7. Any Other Feedback
+7. Any Other Feedback. 
   Inspiring tagline at the end, charts were easy to read and understand the information it is presenting
 
 
