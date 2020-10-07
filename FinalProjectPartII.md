@@ -18,11 +18,11 @@ I debated between using the "dark" approach of "scaring" the user right from the
 
 
 ## High Fidelity Mockup
-Instead of sketching a paper prototype, I proceeded to design my mockup in high-fidelity using a prototyping tool known as Figma. Following this prototype, I intend to gather some feedback from viewers before proceeding to build the final version on shorthand.  
-*Visualizations are for illustration purposes and are not representative of the actual data.
-![Mockup](/TellingStoriesMockup.jpg)
+Instead of sketching a paper prototype, I proceeded to design my mockup in high-fidelity using a prototyping tool known as Figma. Following this prototype, I intend to gather some feedback from viewers before proceeding to build the final version on shorthand.  View the initial mockup on Part 1 of the project here: [Part I](https://jeromelek.github.io/tellingstorieswithdataportfolio/FinalProjectPartI.html)
 
 In part II of the final project, I have made iterative improvements over the original mockup above. This include the use of actual charts that have been created in Flourish, as well as including additional data and information that were suggested in an earlier peer review session. 
+*Visualizations are now updated to be representative of the actual data.
+![Mockup](/TellingStoriesMockup2.jpg)
 
 ## User Research and Interviews
 With the new mockup, I proceeded to carry out the user research and interviews. The following is my user research protocol.
