@@ -51,6 +51,40 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 7. Any Other Feedback
 
 ### Interview Findings
+#### Interview #1 - 
+1. What do you think is the story being told?  
+  The story being told is that social media might be toxic even if it has its plus sides sometimes
+2. Is there anything unclear and confusing?  
+  Not really.
+3. Is there anything that stood out for you?  
+   The timeline about the data hacks. Shows that it seems to be an ongoing issue that is still continuing?
+4. Is there anything that you would have liked to learn about from the story?  
+  Nothing at the moment
+5. Is there anything you would change or do differently about the overall story?  
+  Too many charts and pictures in the story. Maybe you can cut out some?
+6. Does the story compel you to make any changes to your social media usage patterns?  
+  With the stats and everything, and it also tells me how to handle the toxic side of social media. I might have to look into it.
+7. Any other feedback. 
+  I think overall is quite good, I know what the whole story is about and I know why it says what it say.
+
+
+#### Interview #2 - Early 20s Undergraduate Student who has watchehed The Social Dilemma. Her Social Media usage is between 5-6 hours daily, with high usage of Instagram and Reddit.
+1. What do you think is the story being told?  
+  The story being told is that social media might be toxic even if it has its plus sides sometimes
+2. Is there anything unclear and confusing?  
+  Not really.
+3. Is there anything that stood out for you?  
+   The timeline about the data hacks. Shows that it seems to be an ongoing issue that is still continuing?
+4. Is there anything that you would have liked to learn about from the story?  
+  Nothing at the moment
+5. Is there anything you would change or do differently about the overall story?  
+  Too many charts and pictures in the story. Maybe you can cut out some?
+6. Does the story compel you to make any changes to your social media usage patterns?  
+  With the stats and everything, and it also tells me how to handle the toxic side of social media. I might have to look into it.
+7. Any other feedback. 
+  I think overall is quite good, I know what the whole story is about and I know why it says what it say.
+
+
 #### Interview #3 - Early 20s Graduate Student who has not watched The Social Dilemma. Her Social Media usage is approximately 2 hours daily, with high usage of Instagram and TikTok.
 1. What do you think is the story being told?  
   The story is about how social media impacts our lives, the pros and cons to it, and how it has helped us through coronavirus. It is about what social media can bring you and how you can protect yourself from it.
@@ -67,6 +101,7 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 7. Any other feedback. 
   I think the brain teasers are good, but they should stand out more.
   
+  
 #### Interview #4 - Mid 20s Graduate Student who has only heard of the show. His Social Media usage is between 2-3 hours daily, with usage on Instagram and Reddit.
 1. What do you think is the story being told?  
   There are downsides to excessive social media usage.
@@ -82,9 +117,20 @@ I will proceed to share the mockup with them and give them a moment to view it. 
   I will explore phone app limits functions in my personal device
 7. Any Other Feedback. 
   Inspiring tagline at the end, charts were easy to read and understand the information it is presenting
-
-
-
+ 
+  
 ### Changes to implement to address issues
+Based on the feedback gathered, I would be implementing the following changes when transferring the mockup to Shorthand. Generally, the feedback has been quite positive after the changes have been made to the second iteration of the mockup.  
+1. Reduce the number of image breakers (especially those that look too "stock" and not as linked to the story at hand.
+2. Consider reducing the general statistics at the start, and putting the description above to make the chart more readable
+3. Add legend to the visualization on American sentiments.
+4. Work on the scaling between the chart font size and the text font size (this was not done in the mockup and caused some confusion - but will be rectified when implemented in shorthand)
+5. Increase the font sizes of axis / labels to be more visible
+6. Change the color of the axis from grey to white for better visibility
+7. Look into alternative colours for Facebook / Instagram to make their lines more visible on the charts
+8. Vary the font weight / sizes for the text blocks to increase readability and impact for the reader.
+9. Provide more detail if possible with regards to the timeline (when readers want to find out more)
+These changes will be made directly on Shorthand in Part III of the project for greater accuracy.
+
 
 ### Back to [Homepage](https://jeromelek.github.io/tellingstorieswithdataportfolio/)
