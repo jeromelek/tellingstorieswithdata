@@ -53,22 +53,22 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 ### Interview Findings
 #### Interview #1 - 
 1. What do you think is the story being told?  
-  The story being told is that social media might be toxic even if it has its plus sides sometimes
+  
 2. Is there anything unclear and confusing?  
-  Not really.
+  
 3. Is there anything that stood out for you?  
-   The timeline about the data hacks. Shows that it seems to be an ongoing issue that is still continuing?
+   
 4. Is there anything that you would have liked to learn about from the story?  
-  Nothing at the moment
+  
 5. Is there anything you would change or do differently about the overall story?  
-  Too many charts and pictures in the story. Maybe you can cut out some?
+  
 6. Does the story compel you to make any changes to your social media usage patterns?  
-  With the stats and everything, and it also tells me how to handle the toxic side of social media. I might have to look into it.
+  
 7. Any other feedback. 
-  I think overall is quite good, I know what the whole story is about and I know why it says what it say.
+  
 
 
-#### Interview #2 - Early 20s Undergraduate Student who has watchehed The Social Dilemma. Her Social Media usage is between 5-6 hours daily, with high usage of Instagram and Reddit.
+#### Interview #2 - Early 20s Undergraduate Student who has watchehed The Social Dilemma. Her Social Media usage is between 5-6 hours daily, with high usage of Telegram and Reddit.
 1. What do you think is the story being told?  
   The story being told is that social media might be toxic even if it has its plus sides sometimes
 2. Is there anything unclear and confusing?  
