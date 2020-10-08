@@ -22,5 +22,5 @@ Published site: [Github Page](https://jeromelek.github.io/tellingstorieswithdata
 ### [Assignment: Critique by Design](critiquebydesign.md)  
 
 ### [Final Project: Part 1](FinalProjectPartI.md)
+### [Final Project: Part 2](FinalProjectPartII.md)
 
-Future Assignments will also be posted here.
