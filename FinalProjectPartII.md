@@ -32,7 +32,7 @@ My target audience is not exactly specific. It could apply to the general popula
 
 ### Identifying Interviewees
 Given the coronavirus situation, I have chosen 4 individuals that are more accessible for the purpose of gathering feedback on my story. They may or may not have watched The Social Dilemma and hence would provide a varied result. Also of interest to me is what kind of impact the show has had on their views. They also have varying social media usage patterns.
-- Mid 20s Working Professional who has watched The Social Dilemma. His Social Media usage is < 1 hour a day, primarily spent on Twitter and Reddit.
+- Mid 20s Graduate Student who has watched The Social Dilemma. Her Social Media usage is between 3-4 hours daily, with high usage of Facebook and Instagram.
 - Early 20s Undergraduate Student who has watchehed The Social Dilemma. Her Social Media usage is between 3-4 hours daily, with high usage of Instagram and Reddit.
 - Early 20s Graduate Student who has not watched The Social Dilemma. Her Social Media usage is approximately 2 hours daily, with high usage of Instagram and TikTok.
 - Mid 20s Graduate Student who has only heard of the show. His Social Media usage is between 1-2 hours daily, with usage on Instagram and Reddit.
@@ -51,21 +51,27 @@ I will proceed to share the mockup with them and give them a moment to view it. 
 7. Any Other Feedback
 
 ### Interview Findings
-#### Interview #1 - 
+#### Interview #1 - Mid 20s Graduate Student who has watched The Social Dilemma. Her Social Media usage is between 3-4 hours daily, with high usage of Facebook and Instagram.
 1. What do you think is the story being told?  
-  
+  It is telling the reader the pros & cons of social media usage and urging the reader to reduce social media usage
+
 2. Is there anything unclear and confusing?  
-  
+  Graphs were a little hard to read (labels might be a little too small)
+
 3. Is there anything that stood out for you?  
-   
+  Number of installations of tiktok every minute
+
 4. Is there anything that you would have liked to learn about from the story?  
-  
+  How social media has altered user's behaviors
+
 5. Is there anything you would change or do differently about the overall story?  
+  Nope
   
 6. Does the story compel you to make any changes to your social media usage patterns?  
-  
+  Ensure that no compromising information about myself is posted online
+
 7. Any other feedback. 
-  
+  Nil
 
 
 #### Interview #2 - Early 20s Undergraduate Student who has watchehed The Social Dilemma. Her Social Media usage is between 5-6 hours daily, with high usage of Telegram and Reddit.
@@ -120,7 +126,11 @@ I will proceed to share the mockup with them and give them a moment to view it. 
  
   
 ### Changes to implement to address issues
-Based on the feedback gathered, I would be implementing the following changes when transferring the mockup to Shorthand. Generally, the feedback has been quite positive after the changes have been made to the second iteration of the mockup.  
+Based on the feedback gathered, I would be implementing the following changes when transferring the mockup to Shorthand. Generally, the feedback has been quite positive after the changes have been made to the second iteration of the mockup. All the interviewees were able to interprete the story being told, and felt that the call to action was strong.
+
+However, there were too many pictures and issues with the font size of the text vs the charts. I explained that this was a result of inserting screenshots into the mockup and thus causing this issue. It will definitely be rectified in the final product.
+
+In summary, these are the changes that I would be looking into changing.
 1. Reduce the number of image breakers (especially those that look too "stock" and not as linked to the story at hand.
 2. Consider reducing the general statistics at the start, and putting the description above to make the chart more readable
 3. Add legend to the visualization on American sentiments.
