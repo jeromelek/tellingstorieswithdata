@@ -16,7 +16,7 @@ In terms of design, I started with a basic mockup using a prototyping tool I was
 
 
 ## Link to Final Data Story
-[Shorthand Page](https://carnegiemellon.shorthandstories.com/the-social-dilemma/index.html)
+# [Shorthand Page](https://carnegiemellon.shorthandstories.com/the-social-dilemma/index.html)
 
 ## References
 ### Social Media Statistics
