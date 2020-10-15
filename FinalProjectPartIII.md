@@ -11,14 +11,20 @@ The story paints a picture of the light and dark of social media, trying to tell
 As majority of social media users are aged between 18 - 35, a majority of my user research was conducted on this audience, because it is likely to be more relatable to them.
 
 ## Work done so far
-My project started from watching The Social Dilemma on Netflix, which potrayed the dark side of social media. And I thought of how to represent this 
-In terms of design, I started with a basic mockup using a prototyping tool I was familiar with, Figma. In Part I, 
+My project started from watching The Social Dilemma on Netflix, which potrayed the dark side of social media. And I thought of how to represent this in the story. I worked on crafting the outline of the project with the user story arc sketch, with what was the story I wanted to tell. 
+
+In terms of design, I started with a basic mockup using a prototyping tool I was familiar with, Figma. In Part I, I started sketching out the elements I wanted in the final project. The design style was a simple walkthrough of the story, separated with images for the various sections. and then followed that with a more detailed sketch in Part II of the project. This was a crucial part in redesigning my final product on Shorthand, as I gained much valuable feedback through the user interviews as well as the in-class discussions. 
+
+Much of the areas of improvement has been discussed in Part II as changes to be implemented, which gave me a lot of valuable insights to work on in Shorthand. In this process, I had to think about the colour and font choices more, given the template, as well as the feedback from the user interviews. Mainly, the focus was on increasing contrast, in making the entire thing more visually appealing. However, in Shorthand, a lot of limitations started showing up with the template. (Like wanting to display 3 items in a row instead of 2), and then I had to create workaround graphics and images to import into Shorthand.
 
 
 ## Link to Final Data Story
-# [Shorthand Page](https://carnegiemellon.shorthandstories.com/the-social-dilemma/index.html)
+### [Shorthand Page](https://carnegiemellon.shorthandstories.com/the-social-dilemma/index.html)
 
 ## References
+### Images
+Images were retrieved from the Unsplash repository of freely usable images.
+
 ### Social Media Statistics
 * https://datareportal.com/reports/more-than-half-the-world-now-uses-social-media
 * https://www.pewresearch.org/internet/fact-sheet/social-media/
