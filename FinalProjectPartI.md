@@ -1,5 +1,8 @@
 # Final Project Part I
 
+### Go to [Part I](FinalProjectPartI.md)
+### Go to [Part II](FinalProjectPartII.md)
+
 ## Outline
 For my final project, I am inspired by the recent Netflix docu-drama, The Social Dilemma. The purpose of my project is to demonstrate that social media has its positives and negatives, but it is up to us, humans, to decide and control our choices and seek a balance of privacy and connectivity.
 
