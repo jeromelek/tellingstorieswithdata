@@ -23,4 +23,5 @@ Published site: [Github Page](https://jeromelek.github.io/tellingstorieswithdata
 
 ### [Final Project: Part 1](FinalProjectPartI.md)
 ### [Final Project: Part 2](FinalProjectPartII.md)
+### [Final Project: Part 3](FinalProjectPartIII.md)
 
