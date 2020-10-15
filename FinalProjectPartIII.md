@@ -1,7 +1,7 @@
 # Final Project Part III
 
-### Back to Part I
-### Back to Part II
+### Back to [Part I](FinalProjectPartI.md)
+### Back to [Part II](FinalProjectPartII.md)
 
 ## Intended Audience
 The social media audience is vast, considering the number of users it has. As identified in Part II of the project, this story applies to the general population, users, avoiders, and more.
